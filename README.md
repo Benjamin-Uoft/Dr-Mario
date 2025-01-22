@@ -59,20 +59,18 @@ Players can enjoy a retro gaming experience while observing the low-level intric
 ## Files
 - `dr_mario.asm`: Main assembly code for the game.
 - `README.md`: Documentation.
-- `assets/`: Bitmap files or data for rendering graphics.
 
 ---
 
 ## Future Improvements
-- Add background music and sound effects.
+- Add background music.
 - Include a 2-player mode.
 - Implement save and load functionality for game states.
-- Add additional difficulty settings.
 
 ---
 
 ## Credits
-- **Developer**: [Your Name]
+- **Developer**: Benjamin Gavriely
 - Inspired by the original **Dr. Mario** game by Nintendo.
 
 ---
